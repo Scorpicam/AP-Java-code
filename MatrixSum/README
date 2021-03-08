@@ -1,0 +1,7 @@
+3/8/2021 MatrixSum Assignment
+
+./Main.java - Runner
+./Sum.java - Summation class
+
+Compile with...
+  $ javac Main.java Sum.java
