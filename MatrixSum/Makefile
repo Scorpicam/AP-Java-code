@@ -1,4 +1,4 @@
-SRC=Main.java Sum.java IO.java
+SRC=Main.java Sum.java
 JAVAC=$$(which javac)
 
 all:
