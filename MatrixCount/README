@@ -1,0 +1,11 @@
+3/12/2021 Matrix Count Assignment
+
+./Main.java - Runner
+./Sum.java - Counter class
+./IO.java - stdio wrappers
+./Makefile - compile classes
+
+Compile with...
+  $ javac Main.java Sum.java IO.java
+or...
+  $ make
