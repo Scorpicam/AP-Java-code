@@ -1,0 +1,7 @@
+4/7/2021 Count Even Lab
+
+./Main.java - Runner
+./Even.java - Even counter class
+
+Compile with...
+  $ make
