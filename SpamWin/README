@@ -1,0 +1,8 @@
+4/6/2021 Window Spamming Assignment
+
+./Main.java - Runner
+./Gui.java - Swing GUI wrapper
+./SpamWin.java - Recursive window creator
+
+Compile with...
+  $ make
