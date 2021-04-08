@@ -1,0 +1,7 @@
+4/8/2021 Chicken Counter Assignment
+
+./Main.java - Runner
+./Chicken.java - Chicken counter
+
+Compile with...
+  $ make
