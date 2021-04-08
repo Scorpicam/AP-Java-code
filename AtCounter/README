@@ -1,0 +1,8 @@
+4/8/2021 At Counter Assignment
+
+./Main.java - Runner
+./Matrix.java - Matrix creator
+./At.java - At counter
+
+Compile with...
+  $ make
