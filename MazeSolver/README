@@ -1,0 +1,8 @@
+4/9/2021 Maze Solver Assignment
+
+./Main.java - Runner
+./Io.java - stdin wrapper and input processor
+./Maze.java - Checks if maze is solvable
+
+Compile with...
+  $ make
