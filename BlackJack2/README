@@ -1,0 +1,9 @@
+4/22/2021 BlackJack Assignment
+
+./Main.java - Runner class
+./BlackJack.java - Game code
+./Deck.java - ArrayList wrapper
+./Card.java - Complicated mess of enums that vaguely resembles a card creation class
+
+Compile with...
+  $ make
